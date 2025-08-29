@@ -6,7 +6,7 @@ This is my personal portfolio website built using HTML and CSS. It highlights my
 
 ## 🔗 Live Preview
 
-[View Website Here](#) <!-- Add your live link here (e.g., GitHub Pages, Netlify, Vercel) -->
+[View Website Here](#) <!--file:///C:/Users/Sarthak%20Saxena/Desktop/portfolio.html  -->
 
 ## 🧠 About Me
 
@@ -26,5 +26,5 @@ I'm a Computer Science and Engineering student at Graphic Era Hill University, p
 - CSS3
 - Git & GitHub
 
-## 📁 Folder Structure
+
 
