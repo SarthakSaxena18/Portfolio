@@ -6,7 +6,7 @@ This is my personal portfolio website built using HTML and CSS. It highlights my
 
 ## 🔗 Live Preview
 
-[View Website Here](#) <!--file:///C:/Users/Sarthak%20Saxena/Desktop/portfolio.html  -->
+[View Website Here](#) file:///C:/Users/Sarthak%20Saxena/Desktop/portfolio.html  
 
 ## 🧠 About Me
 
